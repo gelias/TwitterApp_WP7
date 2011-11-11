@@ -25,7 +25,8 @@ namespace TwitterWP7
         private void loadTweets_click(object sender, RoutedEventArgs e)
         {
             WebClient twitter = new WebClient();
-            Uri endereco = new Uri("http://www.inf.pucrs.br/juliopm/wp7/facinpucrs.xml");
+	    String url = String.Format("http://twitter.com/statuses/user_timeline/{0}.{1}", txtTwitter.Text, "xml");
+            Uri endereco = new Uri(url);
             twitter.DownloadStringCompleted +=new DownloadStringCompletedEventHandler(twitter_DownloadStringCompleted);
             twitter.DownloadStringAsync(endereco);
         }
