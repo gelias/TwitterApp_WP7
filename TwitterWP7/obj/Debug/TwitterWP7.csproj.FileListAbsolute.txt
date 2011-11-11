@@ -1,0 +1,13 @@
+C:\Users\10191943\Desktop\WP7\TwitterWP7\TwitterWP7\Bin\Debug\ApplicationIcon.png
+C:\Users\10191943\Desktop\WP7\TwitterWP7\TwitterWP7\Bin\Debug\Background.png
+C:\Users\10191943\Desktop\WP7\TwitterWP7\TwitterWP7\Bin\Debug\TwitterWP7.dll
+C:\Users\10191943\Desktop\WP7\TwitterWP7\TwitterWP7\Bin\Debug\TwitterWP7.pdb
+C:\Users\10191943\Desktop\WP7\TwitterWP7\TwitterWP7\Bin\Debug\AppManifest.xaml
+C:\Users\10191943\Desktop\WP7\TwitterWP7\TwitterWP7\Bin\Debug\TwitterWP7.xap
+C:\Users\10191943\Desktop\WP7\TwitterWP7\TwitterWP7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\10191943\Desktop\WP7\TwitterWP7\TwitterWP7\obj\Debug\App.g.i.cs
+C:\Users\10191943\Desktop\WP7\TwitterWP7\TwitterWP7\obj\Debug\MainPage.g.i.cs
+C:\Users\10191943\Desktop\WP7\TwitterWP7\TwitterWP7\obj\Debug\TwitterWP7.g.resources
+C:\Users\10191943\Desktop\WP7\TwitterWP7\TwitterWP7\obj\Debug\TwitterWP7.dll
+C:\Users\10191943\Desktop\WP7\TwitterWP7\TwitterWP7\obj\Debug\TwitterWP7.pdb
+C:\Users\10191943\Desktop\WP7\TwitterWP7\TwitterWP7\obj\Debug\XapCacheFile.xml
