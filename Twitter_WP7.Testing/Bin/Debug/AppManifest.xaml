@@ -1,0 +1,10 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Twitter_WP7.Testing" EntryPointType="Twitter_WP7.Testing.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Twitter_WP7.Testing" Source="Twitter_WP7.Testing.dll" />
+    <AssemblyPart x:Name="Microsoft.Silverlight.Testing" Source="Microsoft.Silverlight.Testing.dll" />
+    <AssemblyPart x:Name="Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight" Source="Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll" />
+    <AssemblyPart x:Name="NUnit.Silverlight.Compatibility" Source="NUnit.Silverlight.Compatibility.dll" />
+    <AssemblyPart x:Name="NUnit.Silverlight.Framework" Source="NUnit.Silverlight.Framework.dll" />
+    <AssemblyPart x:Name="NUnit.Silverlight.Metadata" Source="NUnit.Silverlight.Metadata.dll" />
+  </Deployment.Parts>
+</Deployment>
